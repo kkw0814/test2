@@ -1,0 +1,13 @@
+# 개인 쇼핑 목록 데이터 (저장소에 올리지 않는다)
+data.json
+data.json.tmp
+data.json.bak-*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 도구/검증 산출물
+.playwright-mcp/
+screenshots/
